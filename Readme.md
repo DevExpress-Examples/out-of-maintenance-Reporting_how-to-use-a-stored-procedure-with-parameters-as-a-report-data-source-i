@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ReportService1.svc.cs](./CS/E3428.Web/ReportService1.svc.cs) (VB: [ReportService1.svc.vb](./VB/E3428.Web/ReportService1.svc.vb))
+* [XtraReport1.cs](./CS/E3428.Web/XtraReport1.cs) (VB: [XtraReport1.vb](./VB/E3428.Web/XtraReport1.vb))
+* [MainPage.xaml](./CS/E3428/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/E3428/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/E3428/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/E3428/MainPage.xaml.vb))
+<!-- default file list end -->
 # How to use a stored procedure with parameters as a report data source in Silverlight
 
 
